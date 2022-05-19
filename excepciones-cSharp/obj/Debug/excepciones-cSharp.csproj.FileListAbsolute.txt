@@ -1,0 +1,7 @@
+F:\PROGRAMACIÓN2A\excepciones-cSharp\bin\Debug\excepciones-cSharp.exe.config
+F:\PROGRAMACIÓN2A\excepciones-cSharp\bin\Debug\excepciones-cSharp.exe
+F:\PROGRAMACIÓN2A\excepciones-cSharp\bin\Debug\excepciones-cSharp.pdb
+F:\PROGRAMACIÓN2A\excepciones-cSharp\obj\Debug\excepciones-cSharp.csproj.AssemblyReference.cache
+F:\PROGRAMACIÓN2A\excepciones-cSharp\obj\Debug\excepciones-cSharp.csproj.CoreCompileInputs.cache
+F:\PROGRAMACIÓN2A\excepciones-cSharp\obj\Debug\excepciones-cSharp.exe
+F:\PROGRAMACIÓN2A\excepciones-cSharp\obj\Debug\excepciones-cSharp.pdb
